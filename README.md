@@ -25,7 +25,7 @@ This is a simple note taking app where you can add and delete notes at your leis
 4. Open your web browser and navigate to http://localhost:3001 to view the landing page.
 
 
-[Visit my website!](https://basic-note-taker-app-d6f9f0df59b0.herokuapp.com)
+## [Visit my website!](https://basic-note-taker-app-d6f9f0df59b0.herokuapp.com)
 
 ## Screenshot
 ![Screenshot of my website](/NoteTakerScreenshot.png)
