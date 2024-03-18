@@ -28,6 +28,6 @@ This is a simple note taking app where you can add and delete notes at your leis
 [Visit my website!](https://basic-note-taker-app-d6f9f0df59b0.herokuapp.com)
 
 ## Screenshot
-![Screenshot of my website](/WeatherScreenshot.png)
+![Screenshot of my website](/NoteTakerScreenshot.png)
 
 
