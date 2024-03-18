@@ -4,10 +4,10 @@ This is a simple note taking app where you can add and delete notes at your leis
 
 ## Features
 
-Create a new note with a title and content
-Delete an exsiting note
-View all notes on the left hand side of the app
-Ability to clear note before saving
+- Create a new note with a title and content
+- Delete an exsiting note
+- View all notes on the left hand side of the app
+- Ability to clear note before saving
 
 ## Technologies Used
 
